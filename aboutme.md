@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Nadeesha Amarasinghe, I currently work at [Tesla AI](https://www.tesla.com/AI).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Background
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I graduated from University of Toronto with a B.S. in Engineering Science and an M.S. in Electrical and Computer Engineering.
