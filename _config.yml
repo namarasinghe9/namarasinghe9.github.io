@@ -47,10 +47,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "nadeesha.amarasinghe@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   linkedin: nadeesha-amarasinghe
   github: namarasinghe9
   twitter: nadeesha99
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
